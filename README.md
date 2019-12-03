@@ -4,6 +4,7 @@
 $ git clone 'https://github.com/wangzhongju/yolov3_tensorflow.git'
 ````
 2. **place your data folder in '{project}/imgorg/'**
+
 e.g.  there is a folder named 'test' what contained some images,
 now, wo can do follow this steps:
 ````bashrc
