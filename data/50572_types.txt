@@ -1,0 +1,13 @@
+bicycle 36212
+motorbike 2434
+car 54230
+wheelchair 120
+dog 974
+bench 12064
+roadblock 8661
+person 368318
+truck 5316
+bus 1862
+babycar 1896
+trash 3614
+
