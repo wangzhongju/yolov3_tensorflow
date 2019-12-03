@@ -1,4 +1,4 @@
-##part 1. Quick start
+## part 1. Quick start
 1. **Download this file**
 ````bashrc
 $ git clone 'web address'
