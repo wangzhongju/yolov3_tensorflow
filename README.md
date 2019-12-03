@@ -11,6 +11,6 @@ now, wo can do follow this steps:
 $ mv /path/to/test/folder {project}/imgorg
 $ python cascade_detection.py
 ````
-at last, you can see the results in '{project}/label2d'
+>At last, you can see the results in '{project}/label2d'
 
 ## part 2. Retrain
